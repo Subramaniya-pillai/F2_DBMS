@@ -27,14 +27,14 @@ create table student(rollno numeric(4), name varchar(50), age numeric(2),
                       address varchar(10), phoneno numeric(10));
 ```
 ##### OUTPUT:
-![git](./02.PNG)
+![git](./02.png)
 #### 2) Change the above student table by adding another attribute department.
 ##### SQL QUERY: 
 ```SQL
 alter table student add department varchar(4);
 ```
 ##### OUTPUT:
-![git](./01.PNG)
+![git](./01.png)
 
 #### 3) Drop the student table
 ##### SQL QUERY: 
@@ -42,7 +42,7 @@ alter table student add department varchar(4);
 drop table student;
 ```
 ##### OUTPUT:
-![git](./03.PNG)
+![git](./03.png)
 
 #### 4) Delete the student table using truncate keyword
 ##### SQL QUERY: 
@@ -50,13 +50,13 @@ drop table student;
 truncate table student;
 ```
 ##### OUTPUT:
-![git](./04.PNG)
+![git](./04.png)
 #### 5) Rename the student table to mystudent
 ##### SQL QUERY: 
 ```SQL
 alter table student rename to my_student;
 ```
 ##### OUTPUT:
-![git](./05.PNG)
+![git](./05.png)
 ### RESULT:
 To create a student database and execute DDL queries using SQL is executed successfully.
