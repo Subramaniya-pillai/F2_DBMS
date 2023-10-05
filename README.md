@@ -59,4 +59,4 @@ alter table student rename to my_student;
 ##### OUTPUT:
 ![git](./05.png)
 ### RESULT:
-To create a student database and execute DDL queries using SQL is executed successfully.
+hence student database and execute DDL queries using SQL is executed successfully.
