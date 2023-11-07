@@ -1,4 +1,5 @@
 # EX-01: DATA DEFINITION LANGUAGE COMMANDS IN RDBMS
+#### DATE:
 ### AIM:
 To create a student database and execute DDL queries using SQL.
 ### DDL (Data Definition Language)
